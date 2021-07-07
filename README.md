@@ -5,8 +5,7 @@ I'm [Anderson](https://www.linkedin.com/in/andersonhansen/), a Fullstack Develop
 Beside's programming, I enjoy tech podcasts and traveling with my family.
 
 <p>
-  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adshan&theme=dark&show_icons=true"/>
-  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=adshan&theme=dark&show_icons=true"/>
+  <img height="230px" max-width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adshan&theme=dark&show_icons=true"/>  
 </p>
 
 ## Languages
@@ -52,7 +51,7 @@ Beside's programming, I enjoy tech podcasts and traveling with my family.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Entre em contato
+## Where to find me:
 <p style="justify-content:center width: 100%">
    <a href="https://www.linkedin.com/in/andersonhansen/">
     <img align="left" alt="Mauricio Hartmann | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
