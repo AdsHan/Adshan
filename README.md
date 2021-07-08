@@ -4,6 +4,17 @@ I'm [Anderson](https://www.linkedin.com/in/andersonhansen/), a Full Stack Develo
 
 Beside's programming, I enjoy tech podcasts and traveling with my family.
 
+## Let's connect? 🤝
+<p style="justify-content:center width: 100%">
+   <a href="https://www.linkedin.com/in/andersonhansen/">
+    <img align="left" alt="Mauricio Hartmann | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="adshan@gmail.com">
+    <img align="left" alt="Mauricio Hartmann | Outlook" width="26px" src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg" />
+  </a>
+</p>
+
+## Analytics ⚙️
 <p>
   <img height="230px" max-width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adshan&theme=dark&show_icons=true"/>  
 </p>
@@ -50,13 +61,3 @@ Beside's programming, I enjoy tech podcasts and traveling with my family.
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## Where to find me:
-<p style="justify-content:center width: 100%">
-   <a href="https://www.linkedin.com/in/andersonhansen/">
-    <img align="left" alt="Mauricio Hartmann | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="adshan@gmail.com">
-    <img align="left" alt="Mauricio Hartmann | Outlook" width="26px" src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg" />
-  </a>
-</p>
