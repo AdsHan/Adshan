@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Anderson](https://www.linkedin.com/in/andersonhansen/), a Full Stack Developer from Brazil 🚀. Passionate about .NET, Angular and Flutter ⚡⚡.
+I'm [Anderson](https://www.linkedin.com/in/andersonhansen/), a Full Stack Developer from Brazil 🚀. Passionate about .NET.
 
 Beside's programming, I enjoy tech podcasts and traveling with my family.
 
