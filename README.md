@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm [Anderson](https://www.linkedin.com/in/andersonhansen/), a senior software engineer from Brazil passionate about .NET 🚀.
-
-Beside's programming, I enjoy tech podcasts and traveling with my family.
+I'm [Anderson](https://www.linkedin.com/in/andersonhansen/), a senior software engineer from Brazil passionate about .NET 🚀🚀🚀🚀.
 
 ## Let's connect? 🤝
 <p style="justify-content:center width: 100%">
